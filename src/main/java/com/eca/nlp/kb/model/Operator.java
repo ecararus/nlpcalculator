@@ -1,7 +1,5 @@
 package com.eca.nlp.kb.model;
 
-import com.sun.istack.internal.NotNull;
-
 import java.util.Collections;
 import java.util.Set;
 
@@ -9,9 +7,7 @@ import static java.util.Objects.requireNonNull;
 
 public final class Operator implements Arithmetical {
 
-    @NotNull
     private final String arithmetical;
-    @NotNull
     private final Set<String> human;
 
     public Operator(String arithmetical, Set<String> human) {

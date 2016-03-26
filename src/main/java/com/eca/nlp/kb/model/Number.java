@@ -1,14 +1,10 @@
 package com.eca.nlp.kb.model;
 
-import com.sun.istack.internal.NotNull;
-
 import static java.util.Objects.requireNonNull;
 
 public final class Number implements Arithmetical {
 
-    @NotNull
     private final String arithmetical;
-    @NotNull
     private final String human;
 
     public Number(String arithmetical, String human) {
