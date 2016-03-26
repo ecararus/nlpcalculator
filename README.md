@@ -1,4 +1,4 @@
-# Natural Language Calculator [![Build Status](https://travis-ci.org/ecararus/nlpcalculator.svg?branch=master)](https://travis-ci.org/ecararus/nlpcalculator) [![Coverage Status](https://coveralls.io/repos/github/ecararus/nlpcalculator/badge.svg?branch=master)](https://coveralls.io/github/ecararus/nlpcalculator?branch=master)
+# Natural Language Calculator [![Build Status](https://travis-ci.org/ecararus/nlpcalculator.svg?branch=master)](https://travis-ci.org/ecararus/nlpcalculator) [![Build Status](https://travis-ci.org/ecararus/nlpcalculator.svg?branch=master)](https://travis-ci.org/ecararus/nlpcalculator)
 Problem:
 Write a text-based console application to perform simple natural language calculations.
 
